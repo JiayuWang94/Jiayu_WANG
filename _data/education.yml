@@ -1,6 +1,6 @@
 # Degree
 - degree: Ph.D. Candidate in Mechanical Engineering
-  uni: <a href="https://www.tcd.ie/"> Trinity College Dublin, the University of Dublin
+  uni: <a href="https://www.tcd.ie/"> Trinity College Dublin, the University of Dublin </a>
   year: Expected September 2025
   awards:
  #  - award: Summa Cumme Laude graduate
@@ -13,10 +13,10 @@
   summary: # You can choose to have either a single or multiple awards
 
 - degree:  Master of Engineering, Aeronautical Engineering
-  uni: <a href="https://mai.ru/"> Moscow Aviation Institute (National Research University)
+  uni: <a href="https://mai.ru/"> Moscow Aviation Institute (National Research University) </a>
   year: July 2020
   
 - degree: Bachelor of Engineering, Flight Vehicle Propulsion Engineering
-  uni: <a href="https://www.nwpu.edu.cn/"> Northwestern Polytechnical University
+  uni: <a href="https://www.nwpu.edu.cn/"> Northwestern Polytechnical University </a>
   year: July 2014
   
