@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Jiayu Wang"
 resume_title:                   "Ph.D. Candidate in Mechanical Engineering"
 
