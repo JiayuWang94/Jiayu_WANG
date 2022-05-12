@@ -1,22 +1,30 @@
+<style type="text/css"> 
+a:link,a:visited{ 
+ text-decoration:none;  /*超链接无下划线*/ 
+} 
+a:hover{ 
+ text-decoration:underline;  /*鼠标放上去有下划线*/ 
+} 
+
 # Degree
 - degree: Ph.D. Candidate in Mechanical Engineering
-  uni: <a href="https://www.tcd.ie/"> Trinity College Dublin, the University of Dublin </a>
+  uni: </style> <a href="https://www.tcd.ie/"> Trinity College Dublin, the University of Dublin </a>
   year: Expected September 2025
   awards:
  #  - award: Summa Cumme Laude graduate
   summary: # If you had any meaningful roles at college, feel free to write about them here
 
 - degree: Master of Engineering, Aeronautical Engineering
-  uni: <a href="https://www.sjtu.edu.cn/"> Shanghai Jiao Tong University </a>
+  uni: </style> <a href="https://www.sjtu.edu.cn/"> Shanghai Jiao Tong University </a>
   year: April 2021
   award: # Most likely to succeed
   summary: # You can choose to have either a single or multiple awards
 
 - degree:  Master of Engineering, Aeronautical Engineering
-  uni: <a href="https://mai.ru/"> Moscow Aviation Institute (National Research University) </a>
+  uni: </style> <a href="https://mai.ru/"> Moscow Aviation Institute (National Research University) </a>
   year: July 2020
   
 - degree: Bachelor of Engineering, Flight Vehicle Propulsion Engineering
-  uni: <a href="https://www.nwpu.edu.cn/"> Northwestern Polytechnical University </a>
+  uni: </style> <a href="https://www.nwpu.edu.cn/"> Northwestern Polytechnical University </a>
   year: July 2014
   
