@@ -145,10 +145,10 @@
         <header class="section-header">
           <h2>Technical Skills</h2>
         </header>
-        {% for skill in site.data.skills %}
+        {% for skill in site.data.technical_skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <h4 class="resume-item-details">{{ technical_skills.skill }}</h4>
+          <p class="resume-item-copy">{{ technical_skills.description }}</p>
         </div>
         {% endfor %}
 
