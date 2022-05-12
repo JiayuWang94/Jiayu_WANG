@@ -12,12 +12,11 @@
 #  award: Most likely to succeed
 #  summary: You can choose to have either a single or multiple awards
 
-
 - degree:  Master of Engineering, Aeronautical Engineering
   uni: Moscow Aviation Institute (National Research University)
   year: July 2020
   
-  - degree: Bachelor of Engineering, Flight Vehicle Propulsion Engineering
+- degree: Bachelor of Engineering, Flight Vehicle Propulsion Engineering
   uni: Northwestern Polytechnical University
   year: July 2014
   
