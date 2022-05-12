@@ -1,6 +1,6 @@
 # Degree
 - degree: Ph.D. Candidate in Mechanical Engineering
-  uni:  <a href="https://www.tcd.ie/" text-decoration : none> Trinity College Dublin, the University of Dublin </a>
+  uni:  <a{text-decoration:none;} href="https://www.tcd.ie/"> Trinity College Dublin, the University of Dublin </a>
   year: Expected September 2025
   awards:
  #  - award: Summa Cumme Laude graduate
