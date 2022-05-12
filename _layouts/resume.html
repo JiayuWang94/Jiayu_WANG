@@ -138,17 +138,17 @@
       
       
       
-       {% if site.resume_section_technical_skills %}
-      <!-- begin Technical Skills -->
+       {% if site.resume_section_techanical_skills %}
+      <!-- begin Techanical Skills -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Technical Skills</h2>
+          <h2>Techanical Skills</h2>
         </header>
-        {% for skill in site.data.technical_skills %}
+        {% for skill in site.data.techanical_skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ technical_skills.skill }}</h4>
-          <p class="resume-item-copy">{{ technical_skills.description }}</p>
+          <h4 class="resume-item-details">{{ techanical_skills.skill }}</h4>
+          <p class="resume-item-copy">{{ techanical_skills.description }}</p>
         </div>
         {% endfor %}
 
