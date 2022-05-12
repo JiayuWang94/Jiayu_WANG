@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jiayu Wang"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Ph.D. Candidate in Mechanical Engineering"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "wangj12@tcd.ie"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+353-83-089-1937"
+resume_contact_address:         "College Green, Dubin 2, D02 PN40, Ireland"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "College Green, Dubin 2, D02 PN40, Ireland •+353-83-089-1937 • wangj12@tcd.ie"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Jiayu received his bachelor’s in flight vehicle propulsion engineering from Northwestern Polytechnical University, Xi’an in 2014. He rescived his M.S. degrees in aeronautical Engineering from Moscow Aviation Institute, Moscow and Shanghai Jiao Tong University, Shanghai in 2020 and 2021, respectively. Currently, he works as a Ph.D. candidate in Trinity College Dublin, the University of Dublin under the support of China Scholarship Council (CSC)-Trinity College Dublin Joint Scholarship (2021).</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
