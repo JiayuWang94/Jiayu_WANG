@@ -12,7 +12,7 @@
 #  description: Copy writing, graphic design, web design, front-end web development, print design
 
 - skill:  # Digital content development and creation
-  description: 1. <font size=3> <b> Wang J </b>, Ma W. Deconvolution Algorithms of Phased Microphone Arrays for the Mapping of Acoustic Sources in an Airframe Test. Applied Acoustics, 2020, 164.
+  description: 1. <font size=3> <b> Wang J </b>, Ma W. Deconvolution Algorithms of Phased Microphone Arrays for the Mapping of Acoustic Sources in an Airframe Test. Applied Acoustics, 2020, 164. <a href="https://www.sciencedirect.com/science/article/pii/S0003682X19311570" {text-decoration:none;}> [Link] </a>
 
 - skill:  # Digital content development and creation
   description: 2. <b> Wang J </b>, Ma W. Comparison of Deconvolution Algorithms of Phased Microphone Array for Sound Source Localization in an Airframe Noise Test. Proceedings of the International Conference on Aerospace System Science and Engineering, 2019, pp 81-90.
