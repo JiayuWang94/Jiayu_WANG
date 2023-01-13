@@ -1,6 +1,18 @@
 # Site settings
 title: "Jiayu_Wang (王嘉裕)"
-description: "Jiayu_Wang (王嘉裕)"
+description: "Jiayu_Wang (王嘉裕)"   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-2819-8018"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-2819-8018
+    </a>
 
 # Build settings
 markdown: kramdown
